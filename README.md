@@ -137,4 +137,4 @@ hr-dashboard-powerbi/
 Built to demonstrate practical skills in **Power BI, HR Analytics, and Data Visualization**.
 
 📬 Connect on LinkedIn:https://www.linkedin.com/in/minnanourin/
-dex=2}
+
