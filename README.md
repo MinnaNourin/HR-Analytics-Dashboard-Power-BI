@@ -11,7 +11,6 @@
 
 ## 🖼️ Dashboard Preview
 
-### 📌 Main Dashboard
 ![HR Dashboard](hr_dashboard.png)
 
 ---
@@ -138,11 +137,4 @@ hr-dashboard-powerbi/
 Built to demonstrate practical skills in **Power BI, HR Analytics, and Data Visualization**.
 
 📬 Connect on LinkedIn:https://www.linkedin.com/in/minnanourin/
-```
-
----
-
-If you want next, I can:
-- 🔥 :contentReference[oaicite:0]{index=0}
-- 📊 :contentReference[oaicite:1]{index=1}
-- 🚀 Or :contentReference[oaicite:2]{index=2}
+dex=2}
