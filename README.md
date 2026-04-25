@@ -65,14 +65,11 @@ Five headline cards provide an instant snapshot — Employee Count, Attrition Co
 ---
 
 ## 🧠 Key Insights
-
-> ⚠️ Replace placeholders with actual dashboard values before publishing.
-
-- The **[X] department** accounts for the highest share of attrition at **[X]%**  
-- Employees in the **[age band]** group show the highest turnover rate  
-- **[Education field]** backgrounds are disproportionately represented in attrition  
-- Job satisfaction is lowest among **[Job Role]**, correlating with higher exits  
-- Overall attrition rate stands at **[X]%** against an active workforce of **[X]**  
+- The **R&D department** accounts for the highest share of attrition at **56.12%**  
+- Employees in the **23-34** group show the highest turnover rate  
+- **Life Sciences** backgrounds are disproportionately represented in attrition  
+- Job satisfaction is lowest among **Sales Executive**, correlating with higher exits  
+- Overall attrition rate stands at **16.12%** against an active workforce of **1233**  
 
 ---
 
